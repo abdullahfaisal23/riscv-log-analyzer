@@ -1,0 +1,22 @@
+======================================================================
+                    RISC-V LOG INTERFACE REPORT OUTPUT                
+======================================================================
+Log Resource: test_data/sample_sim.log
+Total Unit Tests Evaluated : 6
+  --> Passed Component Count: 3
+  --> Failed Component Count: 2
+  --> Skipped Module Metrics : 1
+Functional Test Pass Rate  : 50.00%
+----------------------------------------------------------------------
+Simulation Performance Profile Run Metrics:
+  Minimum Operational Run Instance Execution: 0.12s
+  Maximum Operational Run Instance Execution: 2.31s
+  Average Module Block Execution Time Matrix : 0.98s
+----------------------------------------------------------------------
+Failing Structural Targets Listing:
+  [Core Test Failure]: FAIL:
+  [Core Test Failure]: FAIL:
+----------------------------------------------------------------------
+Final Verification Infrastructure Verdict Status: [0;31mFAIL[0m
+======================================================================
+
