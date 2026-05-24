@@ -1,8 +1,4 @@
-# ==============================================================================
-# MEDS Lab Module 1: Build & Execution Management Automation
-# Project Name: riscv-log-analyzer
-# Author: MEDS Summer Training Programme Cohort
-# ==============================================================================
+
 
 # System definitions
 SHELL        := /bin/bash
